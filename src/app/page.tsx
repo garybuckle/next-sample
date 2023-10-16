@@ -4,9 +4,7 @@ import { Socials } from '@/components/Socials';
 export default function Home() {
   return (
     <main>
-      <Header></Header>
-
-      <div className="flex h-auto items-center justify-center">
+      <div className="flex  items-center justify-center">
         {' '}
         <h1 className=" hover:bg-orange-300 text-8xl mt-8">Hauptseite </h1>
       </div>
@@ -47,6 +45,18 @@ export default function Home() {
             aliquam veniam commodi recusandae ad, facilis possimus quibusdam
             quasi ullam voluptatum a nulla eveniet, cum eaque nesciunt
             repudiandae sint molestias? Nihil, voluptate!
+          </span>
+          <span>
+            Magni quo dignissimos numquam tempore, eligendi soluta fugiat nisi
+            sunt eum sint officia! Expedita, molestias? Quasi sit voluptatum
+            optio excepturi nam quam, placeat delectus error. Nobis hic est
+            natus reprehenderit!
+          </span>
+          <span>
+            Magni quo dignissimos numquam tempore, eligendi soluta fugiat nisi
+            sunt eum sint officia! Expedita, molestias? Quasi sit voluptatum
+            optio excepturi nam quam, placeat delectus error. Nobis hic est
+            natus reprehenderit!
           </span>
           <span>
             Magni quo dignissimos numquam tempore, eligendi soluta fugiat nisi
