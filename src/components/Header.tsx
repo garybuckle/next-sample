@@ -8,7 +8,7 @@ export function Header() {
   return (
     <>
       <div>
-        <nav className="  h-12 bg-stone-300 space-x-5 pl-3 flex gap-3 items-center justify-center ">
+        <nav className=" sm:text-red-900 sm:text-sm md:text-sm  h-12 bg-stone-300 space-x-5 pl-3 flex gap-3 items-center justify-center  ">
           <div className=" flex items-center justify-center gap-3 hover:bg-orange-300">
             <FaRunning />
             garybuckle
