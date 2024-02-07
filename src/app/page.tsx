@@ -8,7 +8,7 @@ export default function Home() {
         {' '}
         <h1 className=" hover:bg-orange-300 text-8xl mt-8">Hauptseite </h1>
       </div>
-      <div className="mx-5 mt-3">
+      <div className="container container px-4 md:px-0 h-full mx-auto mx-5 mt-3">
         <p>
           Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quae
           aperiam, voluptas non enim exercitationem, autem earum iure quam modi
