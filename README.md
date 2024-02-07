@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## This was a framework for a teaching module, there is no or little styling. At some point I need to work on this
+
 ## Getting Started
 
 First, run the development server:
